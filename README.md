@@ -14,7 +14,7 @@ Installer:Destroy()
 ```lua
 local Example = {
     InitConfig = {
-        Priority = 20,  // Set a priority level from 20 (highest) to 1 (lowest)
+        Priority = 20,  -- Set a priority level from 20 (highest) to 1 (lowest)
         Run = true,
     },
 }
